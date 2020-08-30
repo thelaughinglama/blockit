@@ -1,5 +1,5 @@
 <h1>blockit</h1>
-<h4>A URL based adbloacker which block intrusive  advertisements on webpages</h4>
+<h4>A URL based ad-blocker which blocks intrusive  advertisements on webpages</h4>
 
 <h2> Steps to use </h2>
 -Download the code and extract it in a folder.<br>
